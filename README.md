@@ -1,4 +1,4 @@
 RSSfeedscraper
 ==============
 
-Scrapes RSS feeds
+Scrapes RSS feeds (Python 2.7).
